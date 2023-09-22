@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: #161616;
+}
+
+.header{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+    color: white;
+}
+
+#conf1{
+  justify-content: right;
+  display: flex;
+  height: 100%;
+}
+
+#col1{
+    margin-right: 10%;
+}
+
+#Name{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 4%;
+}
+
+#Hobbies{
+    color: white;
+    margin-top: 2%;
+    font-weight: bold;
+}
+
+#span1{
+    color: rgb(37, 235, 169);
+}
+
+
+#p1{
+    margin-top: 5%;
+    color: white;
+    font-size: large;
+}
+
+#p2{
+    margin-top: 2%;
+    margin-left: 6%;
+    color: white;
+    font-size: large;
+}
+
+#p3{
+    margin-top: 6%;
+    color: white;
+}
+
+
+#hr1{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: rgb(113, 126 , 138);
+    height: 1px;
+    border: none;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+    box-shadow: 35px 35px rgb(37, 235, 169);
+}
+
+.card-deck, .card-body{
+    width: 600px;
+    height: 400px;
+    padding-top: 40px;
+    padding-right: 80px;
+    
+}
